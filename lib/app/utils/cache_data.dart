@@ -1,0 +1,3 @@
+class CacheData{
+  String genderOfThePerson = '';
+}

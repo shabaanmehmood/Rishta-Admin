@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "125564649035",
+    "project_id": "matrimonial-2458e",
+    "storage_bucket": "matrimonial-2458e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125564649035:android:9082a2d20223ce3f5b97ce",
+        "android_client_info": {
+          "package_name": "com.epopiah.matrimonial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125564649035-2g1ep2ekf4brqqd6dn5pp38g0okj52a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epopiah.matrimonial_app",
+            "certificate_hash": "abc2e92ffcb0579f4ca53e5f128bc6d5bed98a6c"
+          }
+        },
+        {
+          "client_id": "125564649035-7g4uu8b7n1l979gr2svlsud31vhl4v00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epopiah.matrimonial_app",
+            "certificate_hash": "749f57afea3b89ad9cb03480d94afe45a7f9d555"
+          }
+        },
+        {
+          "client_id": "125564649035-8siq5n8ee9l2iok7in6ki3gkutp64uor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epopiah.matrimonial_app",
+            "certificate_hash": "dcbd9da87cf627de4a4fb8c994aa28ceaac7db93"
+          }
+        },
+        {
+          "client_id": "125564649035-fobqrjn7jcvlb117j57qm81706emv9vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epopiah.matrimonial_app",
+            "certificate_hash": "2dc56f92eca51cb116d05e04c335c73fc2afb25f"
+          }
+        },
+        {
+          "client_id": "125564649035-a3jrl28gnrns8cqp7iligirlkh4la5vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGJmSLmulZ5By4YqOjPFQmOpyIpXO9hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125564649035-a3jrl28gnrns8cqp7iligirlkh4la5vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125564649035:android:e85d203517a7edd45b97ce",
+        "android_client_info": {
+          "package_name": "com.example.rishta_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125564649035-a3jrl28gnrns8cqp7iligirlkh4la5vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGJmSLmulZ5By4YqOjPFQmOpyIpXO9hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125564649035-a3jrl28gnrns8cqp7iligirlkh4la5vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
